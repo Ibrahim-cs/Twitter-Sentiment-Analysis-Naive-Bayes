@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis
+#Twitter Sentiment Analysis
 A Python script that analyses sentiment on a given topic from tweets data provided by Twitter
 # Twitter-Sentiment-Analysis-Naive-Bayes
 Twitter Sentiment Analysis using Naive Bayes
